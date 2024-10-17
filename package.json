@@ -1,6 +1,6 @@
 {
   "name": "tictactoe",
-  "homepage": "https://github.com/Yashitjain/TicTacToe.git",
+  "homepage": "https://github.com/Yashitjain/TicTacToe",
   "version": "0.1.0",
   "public": true,
   "dependencies": {
