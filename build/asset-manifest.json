@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Yashitjain/TicTacToe.git/static/css/main.11172d34.css",
+    "main.js": "/Yashitjain/TicTacToe.git/static/js/main.cbdfdddb.js",
+    "static/js/453.1d9a75e6.chunk.js": "/Yashitjain/TicTacToe.git/static/js/453.1d9a75e6.chunk.js",
+    "static/media/logo.svg": "/Yashitjain/TicTacToe.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Yashitjain/TicTacToe.git/index.html",
+    "main.11172d34.css.map": "/Yashitjain/TicTacToe.git/static/css/main.11172d34.css.map",
+    "main.cbdfdddb.js.map": "/Yashitjain/TicTacToe.git/static/js/main.cbdfdddb.js.map",
+    "453.1d9a75e6.chunk.js.map": "/Yashitjain/TicTacToe.git/static/js/453.1d9a75e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11172d34.css",
+    "static/js/main.cbdfdddb.js"
+  ]
+}
